@@ -1,0 +1,6 @@
+﻿id_programa;nombre_programa;descripcion_programa
+1;Terapia Esencial;Terapia de 35 min en camilla y 35 min de ejercicio o 35 min de equipo
+2;Terapia Advance;Terapia de 35 min en camilla y 35 min de ejercicio + 35 min de equipo
+3;Terapia Plus;Terapia de 70 min en camilla
+4;Terapia Max;Terapia de 70 min en camilla y 35 min de ejercicio o 35 min de equipo
+5;Terapia Ultra;Terapia de 70 min en camilla y 35 min de ejercicio + 35 min de equipo

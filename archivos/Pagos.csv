@@ -1,0 +1,6 @@
+﻿id_pago;fecha;id_paciente;id_valorizacion;numero_cuotas;monto;tipo_doc;numero_doc;estado
+1;2024-09-16 00:00:00.000;1;2;1;288,00;boleta;0011-459983;cancelado
+2;2024-09-17 00:00:00.000;2;4;1;352,00;boleta;0011-463322;cancelado
+3;2024-09-18 00:00:00.000;3;6;3;138,00;boleta;0011-445444;pendiente
+4;2024-09-19 00:00:00.000;4;8;3;181,00;factura;FC-002123123;pendiente
+5;2024-09-20 00:00:00.000;5;10;2;400,00;boleta;0011-423332;pendiente

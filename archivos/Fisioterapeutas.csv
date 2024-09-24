@@ -1,0 +1,7 @@
+﻿id_fisioteapeuta;numero_documento;nombres;apellido_paterno;apellido_materno;celular;estado;fecha_ingreso;fecha_cese;grado_academico
+10;70264102;María Esther;Castro;Miranda;983234542;S;2022-03-05;NULL;Universitario
+11;73142608;Milagros Rosmery;Condori;Quiroz;983232342;S;2024-05-10;NULL;Tecnico
+12;70207217;Jean Paul;Ruiz;Manosalva;983232344;S;2024-04-15;NULL;Universitario
+13;74849048;Lorena Selene;Blas;Herrera;983223421;S;2022-06-12;NULL;Universitario
+14;70514545;Esther Karolay;Quilca;Leon;983268732;S;2023-02-20;NULL;Universitario
+15;72628306;Claudia Lucero;Roman;Cotrina;983231234;S;2023-02-08;NULL;Universitario
