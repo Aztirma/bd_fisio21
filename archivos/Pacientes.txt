@@ -1,0 +1,11 @@
+id_paciente	numero_documento	nombres	apellido_paterno	apellido_materno	celular	email	fecha_de_nacimiento	distrito	estado_civil	ocupacion	numero_hijos
+1	1103695	Giulio	Rotoli	L¡maco	940499986	giuliort10@gmail.com	05/05/1996	Miraflores	C	Independiente	3
+2	9273929	Manuel Antonio	Rodr¡guez	Vargas	954174037	tonyrodrigv@gmail.com	07/08/1961	San Miguel	S	Independiente	0
+3	10766340	Maria	Ramos	Labrin	950120097	mperlar81@gmail.com	05/01/1955	Ate	C	Ama de casa	3
+4	41839744	Gunther	Paredes	Romero	942149149	gunther.pa.ro@gmail.com	08/02/1983	San Mart¡n de Porres	S	Analista de compras	0
+5	10058293	Wolkmer	Ampuero	Valdivia	986918544	wolkmer22002@gmail.com	19/11/1972	San Borja	S	Tecnico contratista	1
+6	40627075	Percy	Herrera	Reyna	991344652	percyherrera80@gmail.com	29/05/1980	Miraflores	S	Ingeniero civil	1
+7	8891367	Felix	Arellano	Melgarejo	998089239	fharellano1@hotmail.com	08/11/1975	Surquillo	S	ingeniero industrial	1
+8	76919929	Alvaro	Penin	Aso	929741757	alvaro.pe¤in@ap-r.net	05/04/1978	Miraflores	S	Empresario	0
+9	7283250	Jaime Ricardo	Montalvan	Lozada	990342588	mcsalomo3@hotmail.com	11/06/1963	La Victoria	C	Empresario	2
+10	47200027	Rocio	Huarcaya	Vilca	943501770	rociohuarcaya@gmail.com	13/05/1991	Chorrillos	S	Analista de Marketing	0
