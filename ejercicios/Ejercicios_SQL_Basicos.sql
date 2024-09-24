@@ -1,5 +1,4 @@
 
-
 -- Ejercicios Básicos de SQL - Examen práctico de SQL caso “BD_FISIO21”
 
 -- 1. Realiza una consulta que muestre los nombres de los pacientes que viven en el distrito "Miraflores".

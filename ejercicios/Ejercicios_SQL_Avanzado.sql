@@ -1,3 +1,5 @@
+-- Ejercicios Avanzados de SQL - Examen práctico de SQL caso “BD_FISIO21”
+
 -- 1. Total de pagos pendientes por paciente, ordenados de mayor a menor:
 SELECT P.nombres, P.apellido_paterno, P.apellido_materno, SUM(PA.monto) AS total_pendiente
 FROM PACIENTES P
@@ -54,10 +56,6 @@ FROM (
 ) AS subquery
 GROUP BY estado
 ORDER BY promedio_valorizacion DESC;
-
-
-
-
 
 -- 6. Pacientes con pagos pendientes superiores al promedio de pagos pendientes:
 SELECT P.nombres, P.apellido_paterno, P.apellido_materno, SUM(PA.monto) AS total_pendiente
